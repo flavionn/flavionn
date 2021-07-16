@@ -6,7 +6,7 @@
 - :sun_with_face: I’m currently learning React and revisitating JavaScript
 - :seedling: I'm currently working on my first startup idea called [Prova Beer](https://www.flavionn.com/prova)
 
-### if you have some time
+### about me
 
 Since I started my career I have been working with Visual Design of things.
 
