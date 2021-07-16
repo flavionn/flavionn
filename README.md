@@ -1,4 +1,4 @@
-### :v: Hello, I am Flávio.
+### :v: Hello, I'm Flávio.
 
 ### tldr
 
