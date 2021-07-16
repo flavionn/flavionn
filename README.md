@@ -7,3 +7,5 @@ But I've always been interested in technology and development too. So, I worked 
 In 2021 I decided to focus my career entirely on frontend development.
 
 At this time I'm looking for a frontend job and bringing life to my own projects, learning and using things like React, Vue, Nuxt, Vite and Windi CSS
+
+:seedling: I'm also working in my first startup idea called [Prova Beer](https://www.flavionn.com/prova) 
