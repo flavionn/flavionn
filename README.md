@@ -3,7 +3,7 @@
 ### tldr
 
 - :star: I'm available and looking for a front-end job - check my portfólio in [flavionn.com](https://www.flavionn.com)
-- :sun_with_face: I’m currently learning React and revisitating JavaScript
+- :sun_with_face: I´m currently learning React and updating my JavaScript knowledge
 - :seedling: I'm currently working on my first startup idea called [Prova Beer](https://www.flavionn.com/prova)
 - :rainbow: At this time I´m working with Vue, Nuxt, Vite, Windi CSS, Fauna and Firebase in most of my projects
 
