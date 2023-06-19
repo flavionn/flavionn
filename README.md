@@ -6,9 +6,7 @@
 
 :rainbow: At this time I´m working with Vue, Nuxt, Vite, Windi CSS, Fauna and Firebase in most of my projects
 
-:seedling: I'm currently working on my first startup idea called [Prova Beer](https://www.flavionn.com/prova)
-
-:sun_with_face: I´m currently learning React and updating my JavaScript knowledge
+:seedling: I'm currently working too on my first startup idea called [Prova Beer](https://www.flavionn.com/prova)
 
 ### about me
 
@@ -18,7 +16,5 @@ But I've always been interested in technology and development too. So, I worked 
 
 In 2021 I decided to focus my career entirely on frontend development.
 
-At this time I'm looking for a frontend job and bringing life to my own projects.
-
-
+At this time I'm working as frontend developer and bringing life to my own projects.
 
